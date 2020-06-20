@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     SwipeRefreshLayout swipeRefreshLayout;
     EditText etQuery;
     Button btnSearch;
-    final String API_KEY = "097d6f63c0974ca78559e3ec393feb0a";
+    final String API_KEY = "YOUR_API_KEY_HERE";
     Adapter adapter;
     List<Articles> articles = new ArrayList<>();
 
